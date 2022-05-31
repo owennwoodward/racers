@@ -18,6 +18,17 @@ function _draw() {
   `
 }
 
+// function _start() {
+//   setInterval(_moveRacers, 100) 
+// }
+
+
+// function _moveRacers() {
+
+// }
+
+
+
 //Public
 export class ValuesController {
   constructor() {
